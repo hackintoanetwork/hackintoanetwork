@@ -2,9 +2,9 @@
 
 Name : hackintoanetwork<br>
 E-Mail : hackintoanetwork@gmail.com<br>
-Blog : hackintoanetwork.com<br>
-Github : github.com/hackintoanetwork<br>
-Instagram : instagram.com/hackintoanetwork<br>
+Blog : https://hackintoanetwork.com<br>
+Github : https://github.com/hackintoanetwork<br>
+Instagram : https://instagram.com/hackintoanetwork<br>
  
  
 
