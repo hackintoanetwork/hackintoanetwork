@@ -5,7 +5,7 @@ E-Mail : hackintoanetwork@gmail.com<br>
 Blog : https://hackintoanetwork.com<br>
 Github : https://github.com/hackintoanetwork<br>
 Instagram : https://instagram.com/hackintoanetwork<br>
- 
+Twitter : https://twitter.com/hackintonetwork<br> 
  
 
 # Education
