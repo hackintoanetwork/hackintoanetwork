@@ -18,5 +18,5 @@ Instagram : https://instagram.com/hackintoanetwork<br>
 # CTF
 
 2022.05.07 - 2022.05.09  San Diego CTF 2022<br>
-2022.05.28 - 2022.05.30  HeroCTF v4 (예정)<br>
+2022.05.28 - 2022.05.30  HeroCTF v4<br>
 <br>
