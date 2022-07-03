@@ -1,4 +1,4 @@
-# Bio
+# Profile
 
 Name : hackintoanetwork || S3HY0UN9<br>
 E-Mail : hackintoanetwork@gmail.com<br>
