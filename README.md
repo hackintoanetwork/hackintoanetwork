@@ -19,7 +19,7 @@ Instagram : https://instagram.com/hackintoanetwork<br>
 
 2022.05.07 - 2022.05.09  San Diego CTF 2022<br>
 2022.05.28 - 2022.05.30  HeroCTF v4<br>
-2022.06.25 - 2022.06.26  WACON 2022 예선<br>
+2022.06.25 - 2022.06.26  WACON 2022 Qualifier<br>
 2022.07.16 - 2022.07.17  Chungbuk Hacking Camp<br>
-
+2022.07.20 - 2022.07.21  BDSec CTF 2022<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%234E34CD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hackintoanetwork&edge_flat=false)](https://hits.seeyoufarm.com)
