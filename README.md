@@ -1,6 +1,6 @@
 # Profile
 
-Name : hackintoanetwork || S3HY0UN9<br>
+Name : hackintoanetwork<br>
 E-Mail : hackintoanetwork@gmail.com<br>
 Blog : https://hackintoanetwork.com<br>
 Twitter : https://twitter.com/hackintonetwork<br> 
