@@ -32,7 +32,7 @@ Instagram : https://instagram.com/hackintoanetwork<br>
  2022.09.03 - 2022.09.03 : 2nd CTF Jr. <br>
  2022.09.24 - 2022.09.24 : Cyber Conflict Exercise 2022 Qualifier<br>
  2022.10.15 - 2022.10.15 : WHITEHAT CONTEST 2022 Qualifier<br>
- 2022.10.27 - 2022.10.27 : Cyber Conflict Exercise 2022 Final<br>
+ 2022.10.27 - 2022.10.27 : Cyber Conflict Exercise 2022 Final
 <br>
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhackintoanetwork&count_bg=%234F55DD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hackintoanetwork&edge_flat=false)](https://hits.seeyoufarm.com)
