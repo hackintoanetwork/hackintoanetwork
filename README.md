@@ -1,12 +1,5 @@
 # Profile
 
-Name : hackintoanetwork<br>
-E-Mail : hackintoanetwork@gmail.com<br>
-Blog : https://hackintoanetwork.com<br>
-Twitter : https://twitter.com/hackintonetwork<br> 
-Github : https://github.com/hackintoanetwork<br>
-Instagram : https://instagram.com/hackintoanetwork<br>
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackintoanetwork)](https://github.com/깃허브아이디/github-readme-stats) 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackintoanetwork)](https://github.com/깃허브아이디/github-readme-stats)
 <br>
