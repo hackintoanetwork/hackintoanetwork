@@ -33,6 +33,4 @@ Instagram : https://instagram.com/hackintoanetwork<br>
 2022.09.24 - 2022.09.24 : Cyber Conflict Exercise 2022 Quals<br>
 2022.10.15 - 2022.10.15 : WHITEHAT CONTEST 2022 Quals<br>
 2022.10.27 - 2022.10.27 : Cyber Conflict Exercise 2022 Final
-
-<br>
 <br>
