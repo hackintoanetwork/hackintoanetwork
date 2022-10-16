@@ -7,8 +7,8 @@ Twitter : https://twitter.com/hackintonetwork<br>
 Github : https://github.com/hackintoanetwork<br>
 Instagram : https://instagram.com/hackintoanetwork<br>
 <br>
- 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackintoanetwork)](https://github.com/깃허브아이디/github-readme-stats) 
+<br>
 # Education
 
 2020.03 - NOW  충청북도 일반계 고등학교 (3학년)<br>
@@ -34,4 +34,3 @@ Instagram : https://instagram.com/hackintoanetwork<br>
 2022.10.15 - 2022.10.15 : WHITEHAT CONTEST 2022 Quals<br>
 2022.10.27 - 2022.10.27 : Cyber Conflict Exercise 2022 Final
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackintoanetwork)](https://github.com/깃허브아이디/github-readme-stats)
