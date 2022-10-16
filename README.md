@@ -4,3 +4,4 @@
 <img alt="HackerOne" src ="https://img.shields.io/badge/HackerOne-000000.svg?&style=for-the-badge&logo=hackerone&logoColor=white"/>
 <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=gitHub&logoColor=white"/>
 <img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+<img alt="Twitter" src ="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
