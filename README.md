@@ -8,14 +8,14 @@
   + Github : github.com/hackintoanetwork
   + Instagram : instagram.com/hackintoanetwork
   
-  
+<br>
   
  ## Education
   
   + 2020.03 - 2023.02 : 충청북도 일반계 고등학교 
   + 2022.03 - 2022.12 : 건양대학교 정보보호영재교육원 고등전문 I 
   
-
+<br>
   
 ## Awards & Finals
 
@@ -30,7 +30,7 @@
   + 2022.11.10 : The Hacking Championship Junior 2022 장려상 - 우경정보기술 대표이사상
   + 2023.05.11 : 2023 HackTheon Sejong 핵테온 세종 2023 Finalist  
  
-  
+<br>  
   
 ## CVE
   
