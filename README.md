@@ -7,9 +7,8 @@
 
   + Name : 이세형 / LEE SE HYOUNG (hackintoanetwork)
   + E-Mail : hackintoanetwork@gmail.com
-  + Blog : hackintoanetwork.com​
-  + Github : github.com/hackintoanetwork
-  + Instagram : instagram.com/hackintoanetwork
+  + Blog : [hackintoanetwork.com](https://hackintoanetwork.com)
+  + Instagram : [instagram.com/hackintoanetwork](https://instagram.com/hackintoanetwork)
   
 <br>
   
