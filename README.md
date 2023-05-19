@@ -5,7 +5,7 @@
   
 ## Profile
 
-  + Name : 이세형 ( LEE SE HYOUNG )
+  + Name : 이세형 / LEE SE HYOUNG (hackintoanetwork)
   + E-Mail : hackintoanetwork@gmail.com
   + Blog : hackintoanetwork.com​
   + Github : github.com/hackintoanetwork
