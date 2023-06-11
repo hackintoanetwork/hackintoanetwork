@@ -30,6 +30,7 @@
   + 2022.10.29 : 제 8회 정보보호영재교육원 정보보안경진대회 개인전 최우수상 - 건양대학교 총장상
   + 2022.11.10 : The Hacking Championship Junior 2022 Finalist
   + 2022.11.10 : The Hacking Championship Junior 2022 장려상 - 우경정보기술 대표이사상
+  + 2023.04.28 : Patchstack  2023 April Bug Bounty 1st - $650
   + 2023.05.11 : 2023 HackTheon Sejong 핵테온 세종 2023 Finalist  
  
 <br>  
