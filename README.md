@@ -27,12 +27,13 @@
   + 2022.08.21 : 순천향대학교 제 20회 정보보호 페스티벌 본선 Finalist (YISF 2022)
   + 2022.09.14 : 제2회 충청권 청소년 해킹방어대회 최우수상 - 대전광역시장상
   + 2022.10.07 : KOSPO & 교육부 정보보호 영재교육원 웹 서비스 정보보안 경진대회 우수상 - 한국남부발전주식회사 사장상
-  + 2022.10.27 : Cyber Conflict Exercise 2022 Finalist (2022 사이버공격방어대회  a.k.a CCE 2022)
+  + 2022.10.27 : Cyber Conflict Exercise 2022 Finalist ( 2022 사이버공격방어대회  a.k.a CCE 2022 )
   + 2022.10.29 : 제 8회 정보보호영재교육원 정보보안경진대회 개인전 최우수상 - 건양대학교 총장상
   + 2022.11.10 : The Hacking Championship Junior 2022 Finalist
   + 2022.11.10 : The Hacking Championship Junior 2022 장려상 - 우경정보기술 대표이사상
   + 2023.04.28 : Patchstack  2023 April Bug Bounty 1st - $650
-  + 2023.05.11 : 2023 HackTheon Sejong 핵테온 세종 2023 Finalist  
+  + 2023.05.11 : 2023 HackTheon Sejong 핵테온 세종 2023 Finalist
+  + 2023.07.19 : NBB-2777 ( SQL injection in NAVER )
  
 <br>  
   
