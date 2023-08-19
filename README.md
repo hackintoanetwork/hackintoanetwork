@@ -38,9 +38,9 @@
 <br> 
 
 ## Hall of Fame
-  + Patchstack April Leader Board 1st
-  + Wordfence Vulnerability Researcher Hall of Fame 2023
-  + NAVER Bug Bounty Hall of Fame 2023 4th
+  + [Patchstack April Leader Board 1st](https://patchstack.com/database/leaderboard/april-2023)
+  + [NAVER Bug Bounty Hall of Fame 2023 4th](https://bugbounty.naver.com/ko/halloffame)
+  + [Wordfence Vulnerability Researcher Hall of Fame 2023](https://www.wordfence.com/threat-intel/vulnerabilities/researchers/all-time?page=3#jump)
 
 <br> 
 
