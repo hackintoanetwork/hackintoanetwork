@@ -6,6 +6,7 @@
 ## Profile
 
   + Name : 이세형 / LEE SE HYOUNG (hackintoanetwork)
+  + Age : 0x14
   + E-Mail : hackintoanetwork@gmail.com
   + Blog : [hackintoanetwork.com](https://hackintoanetwork.com)
   + Instagram : [instagram.com/hackintoanetwork](https://instagram.com/hackintoanetwork)
