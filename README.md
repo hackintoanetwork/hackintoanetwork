@@ -34,6 +34,11 @@
   + 2023.04.28 : Patchstack  2023 April Bug Bounty 1st - $650
   + 2023.05.11 : 2023 HackTheon Sejong 핵테온 세종 2023 Finalist
   + 2023.07.19 : NBB-2777 ( SQL injection in NAVER )
+
+<br> 
+
+## Speaker
+  + 2023.08.26 : HackingCamp 27, PoC Security
  
 <br>  
   
@@ -80,3 +85,4 @@
   + CVE-2023-37981
   + CVE-2023-40215
   + CVE-2023-39992
+  + CVE-2023-40663
