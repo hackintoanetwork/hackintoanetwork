@@ -37,6 +37,13 @@
 
 <br> 
 
+## Hall of Fame
+  + Patchstack April Leader Board 1st
+  + Wordfence Vulnerability Researcher Hall of Fame 2023
+  + NAVER Bug Bounty Hall of Fame 2023 4th
+
+<br> 
+
 ## Speaker
   + 2023.08.26 : HackingCamp 27, PoC Security ( CTF Player to Hacker : 선택과 집중 )
  
