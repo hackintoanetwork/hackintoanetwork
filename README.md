@@ -33,6 +33,7 @@
   + 2023.04.28 : Patchstack  2023 April Bug Bounty 1st - $650
   + 2023.05.11 : 2023 HackTheon Sejong 핵테온 세종 2023 Finalist
   + 2023.07.19 : NBB-2777 ( SQL injection in NAVER )
+  + 2023.11.10 : 충청권 사이버 보안 경진대회 우수상 - 한국보건산업진흥원장상
 
 <br> 
 
