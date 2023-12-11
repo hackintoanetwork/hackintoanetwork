@@ -32,7 +32,6 @@
   + 2022.11.10 : The Hacking Championship Junior 2022 장려상 - 우경정보기술 대표이사상
   + 2023.04.28 : Patchstack  2023 April Bug Bounty 1st - $650
   + 2023.05.11 : 2023 HackTheon Sejong 핵테온 세종 2023 Finalist
-  + 2023.07.19 : NBB-2777 ( SQL injection in NAVER )
   + 2023.11.10 : 충청권 사이버 보안 경진대회 우수상 - 한국보건산업진흥원장상
 
 <br> 
@@ -50,8 +49,19 @@
  
 <br>  
   
-## CVE
-  
+## Bug Bounty
+
+  # NAVER
+  + NBB-2777
+  + NBB-2874
+
+  # KAKAO
+  + KV-2023-69
+
+  # SPACEX / STARLINK
+  + CVE-2023-49965
+
+  # WORDPRESS PLUGINS
   + CVE-2023-29385
   + CVE-2023-29441
   + CVE-2023-30471
