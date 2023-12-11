@@ -52,8 +52,8 @@
 ## Bug Bounty
 
   ### NAVER
-  + NBB-2777
-  + NBB-2874
+  + NBB-2777 (SQL Injection in NAVER)
+  + NBB-2874 (Unauth RXSS in NAVER)
 
   ### KAKAO
   + KV-2023-69
