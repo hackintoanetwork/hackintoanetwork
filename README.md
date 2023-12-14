@@ -11,6 +11,12 @@
   + Instagram : [instagram.com/sehyoung___](https://instagram.com/sehyoung___)
   
 <br>
+
+## Team
+
+  +  2023 - DEMON / TOOR
+
+<br>
   
  ## Education
   
