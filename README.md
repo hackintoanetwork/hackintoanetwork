@@ -5,8 +5,6 @@
   
 ## Profile
 
----
-
 **Name :** Sehyoung Lee ( hackintoanetwork )
 
 **Email :** hackintoanetwork@duck.com
@@ -15,21 +13,15 @@
 
 # ****Education****
 
----
-
 - 2022.03 - 2022.12 : 정보보호영재교육원 고등전문 I
 - 2023.07 - 2024.03 : KITRI BEST OF THE BEST 12th 취약점 분석 트랙
 - 2024.03 ~ : 숭실대학교 정보보호학과
 
 # ****Speaker****
 
----
-
 - 2023.08.26 : HackingCamp 27, PoC Security ( CTF Player to Hacker : 선택과 집중 )
 
 # Hall of Fame
-
----
 
 - Patchstack 2023 April Leader Board 1st
 - NAVER Bug Bounty Hall of Fame 2023
@@ -37,8 +29,6 @@
 - SpaceX / Starlink bugcrowd Hall of Fame 2023 - BoBdoduk
 
 # ****Bug Bounty****
-
----
 
 ## **NAVER**
 
