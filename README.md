@@ -5,8 +5,8 @@
   
 ## Profile
 
-**Name :** Sehyoung Lee ( hackintoanetwork )
-**Email :** hackintoanetwork@duck.com
+**Name :** Sehyoung Lee ( hackintoanetwork )<br>
+**Email :** hackintoanetwork@duck.com<br>
 **Team :** DEMON, TOOR
 
 # ****Education****
