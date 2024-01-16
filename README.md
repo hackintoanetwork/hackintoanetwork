@@ -29,6 +29,10 @@
 
 # ****Bug Bounty****
 
+## **SpaceX / Starlink**
+
+- CVE-2023-49965, CVE-2023-52235 `Reserved` ( $8000 USD )
+
 ## **NAVER**
 
 - NBB-2777, NBB-2874, NBB-2783 ( SQL Injection, XSS ) ( $1200 USD )
@@ -36,10 +40,6 @@
 ## **kakao**
 
 - KV-2023-32, KV-2023-33, KV-2023-69, KV-2023-66, KV-2023-88
-
-## **SpaceX / Starlink**
-
-- CVE-2023-49965, CVE-2023-52235 `Reserved` ( $8000 USD )
 
 ## **WordPress Plugins**
 
