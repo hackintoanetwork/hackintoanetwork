@@ -4,10 +4,10 @@
 
 # ****Profile****
 
-**Name :** Sehyoung Lee ( hackintoanetwork )<br>
-**Email :** hackintoanetwork@duck.com<br>
-**Blog :** <a href="https://hackintoanetwork.com">hackintoanetwork.com</a><br>
-**Team :** DEMON, TOOR
+- **Name :** Sehyoung Lee ( hackintoanetwork )<br>
+- **Email :** hackintoanetwork@duck.com<br>
+- **Blog :** <a href="https://hackintoanetwork.com">hackintoanetwork.com</a><br>
+- **Team :** DEMON, TOOR
 <br>
 
 # ****Education****
