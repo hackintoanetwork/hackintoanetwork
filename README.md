@@ -3,22 +3,25 @@
 * * *
 
   
-## Profile
+# ****Profile****
 
 **Name :** Sehyoung Lee ( hackintoanetwork )<br>
 **Email :** hackintoanetwork@duck.com<br>
 **Blog :** <a href="https://hackintoanetwork.com">hackintoanetwork.com</a><br>
 **Team :** DEMON, TOOR
+<br>
 
 # ****Education****
 
 - 2022.03 - 2022.12 : 정보보호영재교육원 고등전문 I
 - 2023.07 - 2024.03 : KITRI BEST OF THE BEST 12th 취약점 분석 트랙
 - 2024.03 ~ : 숭실대학교 정보보호학과
+<br>
 
 # ****Speaker****
 
 - 2023.08.26 : HackingCamp 27, PoC Security ( CTF Player to Hacker : 선택과 집중 )
+<br>
 
 # Hall of Fame
 
@@ -26,6 +29,7 @@
 - NAVER Bug Bounty Hall of Fame 2023
 - Wordfence Vulnerability Researcher Hall of Fame 2023
 - SpaceX / Starlink bugcrowd Hall of Fame 2023 - BoBdoduk
+<br>
 
 # ****Bug Bounty****
 
