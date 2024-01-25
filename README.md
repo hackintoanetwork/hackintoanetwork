@@ -24,8 +24,9 @@
 
 # Hall of Fame
 
-- Patchstack 2023 April Leader Board 1st
 - NAVER Bug Bounty Hall of Fame 2023
+- Kakao Bug Bounty Hall of Fame 2023
+- Patchstack 2023 April Leader Board 1st
 - Wordfence Vulnerability Researcher Hall of Fame 2023
 - SpaceX / Starlink bugcrowd Hall of Fame 2023 - BoBdoduk
 <br>
