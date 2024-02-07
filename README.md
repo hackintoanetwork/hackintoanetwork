@@ -23,8 +23,8 @@
 
 # Hall of Fame
 
-- NAVER Bug Bounty Hall of Fame 2023
 - Kakao Bug Bounty Hall of Fame 2023
+- NAVER Bug Bounty Hall of Fame 2023
 - Patchstack 2023 April Leader Board 1st
 - Wordfence Vulnerability Researcher Hall of Fame 2023
 - SpaceX / Starlink bugcrowd Hall of Fame 2023 - BoBdoduk
@@ -35,6 +35,9 @@
 ## **SpaceX / Starlink**
 
 - CVE-2023-49965, CVE-2023-52235 `Reserved` ( $8000 USD )
+
+## **ARC Browser**
+- `Pending CVE`
 
 ## **NAVER**
 
