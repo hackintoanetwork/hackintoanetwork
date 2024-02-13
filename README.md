@@ -34,10 +34,10 @@
 
 ## **SpaceX / Starlink**
 
-- CVE-2023-49965, CVE-2023-52235 `Reserved` ( $8000 USD )
+- CVE-2023-49965 `Reserved`, CVE-2023-52235 `Reserved` ( $8000 USD )
 
 ## **ARC Browser**
-- `Pending CVE`
+- CVE-2024-25733 `Reserved` 
 
 ## **NAVER**
 
