@@ -7,7 +7,7 @@
 - **Name :** Sehyoung Lee ( hackintoanetwork )<br>
 - **Email :** hackintoanetwork@duck.com<br>
 - **Blog :** <a href="https://hackintoanetwork.com">hackintoanetwork.com</a><br>
-- **Team :** DEMON, TOOR, DeadSec
+- **Team :** DEMON, TOOR ( ~ 2024.03), ASC, DeadSec
 <br>
 
 # ****Education****
@@ -35,7 +35,7 @@
 
 ## **SpaceX / Starlink**
 
-- CVE-2023-49965 `Reserved` , CVE-2023-52235 `Reserved` ( $8000 USD )
+- CVE-2023-49965, CVE-2023-52235 ( $8000 USD )
 
 ## **ARC Browser**
 - CVE-2024-25733 `Reserved` 
