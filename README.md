@@ -38,7 +38,7 @@
 - CVE-2023-49965, CVE-2023-52235 ( $8000 USD )
 
 ## **ARC Browser**
-- CVE-2024-25733 `Reserved` 
+- CVE-2024-25733
 
 ## **NAVER**
 
