@@ -16,7 +16,7 @@
 # **Education**
 
 
-- ** ~ 2022.12 : 정보보호영재교육원 고등 전문**
+- **~ 2022.12 : 정보보호영재교육원** 고등 전문
 - **2023.07 - 2024.03 :** [KITRI **Best Of the Best](https://www.kitribob.kr/) 12th** **Vulnerability Analysis**
 - **2024.03 ~ : Soongsil Univ**. Department of Information Security [**@ssu.sec**](https://sec.ssu.ac.kr/)
 - **2024.03 ~ :** Undergraduate Researcher **[@ssu.csec](https://csec.ssu.ac.kr/)**
