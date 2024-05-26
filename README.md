@@ -4,7 +4,6 @@
 
 # Profile
 
----
 
 **Name :** 이세형 ( Sehyoung Lee, 2004.04 )
 
@@ -16,23 +15,20 @@
 
 # **Education**
 
----
 
-- **~ 2022.12 : 정보보호영재교육원 고등 전문**
-- 2**023.07 - 2024.03 :** [KITRI **Best Of the Best](https://www.kitribob.kr/) 12th** **Vulnerability Analysis**
+- ** ~ 2022.12 : 정보보호영재교육원 고등 전문**
+- **2023.07 - 2024.03 :** [KITRI **Best Of the Best](https://www.kitribob.kr/) 12th** **Vulnerability Analysis**
 - **2024.03 ~ : Soongsil Univ**. Department of Information Security [**@ssu.sec**](https://sec.ssu.ac.kr/)
 - **2024.03 ~ :** Undergraduate Researcher **[@ssu.csec](https://csec.ssu.ac.kr/)**
 
 # **Speaker**
 
----
 
-- 2**023.08.26 :** [**HackingCamp 27**](http://hackingcamp.org/), PoC Security ( [CTF Player to Hacker : 선택과 집중](https://github.com/hackintoanetwork/Scan-WP) )
+- **2023.08.26 :** [**HackingCamp 27**](http://hackingcamp.org/), PoC Security ( [CTF Player to Hacker : 선택과 집중](https://github.com/hackintoanetwork/Scan-WP) )
 - **2024.08.30 :** [**CodeGate 2024**](https://codegate.org/), ( Exploiting [**SPACEX](https://www.spacex.com/) / [STARLINK](https://www.starlink.com/)** )
 
 # Hall of Fame
 
----
 
 - [**Kakao** Bug Bounty Hall of Fame 2023](https://bugbounty.kakao.com/notice/halloffame)
 - [**NAVER** Bug Bounty Hall of Fame 2023](https://bugbounty.naver.com/ko/halloffame_2023)
@@ -42,7 +38,6 @@
 
 # **Bug Bounty**
 
----
 
 ## SPACEX / STARLINK
 
