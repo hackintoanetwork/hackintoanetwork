@@ -2,55 +2,67 @@
 
 * * *
 
-# ****Profile****
+# Profile
 
-- **Name :** Sehyoung Lee ( hackintoanetwork )<br>
-- **Email :** hackintoanetwork@duck.com<br>
-- **Blog :** <a href="https://hackintoanetwork.com">hackintoanetwork.com</a><br>
-- **Team :** DEMON, ASC, DeadSec
-<br>
+---
 
-# ****Education****
+**Name :** 이세형 ( Sehyoung Lee, 2004.04 )
 
-- **2022.03 - 2022.12 :** 정보보호영재교육원 고등전문 I
-- **2023.07 - 2024.03 :** KITRI BEST OF THE BEST 12th 취약점 분석 트랙
-- **2024.03 ~ :** 숭실대학교 정보보호학과
-<br>
+**Email :** [hackintoanetwork@soongsil.ac.kr](mailto:hackintoanetwork@soongsil.ac.kr)
 
-# ****Speaker****
+**Blog :** [hackintoanetwork.com](https://hackintoanetwork.com)
 
-- **2023.08.26 :** HackingCamp 27, PoC Security ( CTF Player to Hacker : 선택과 집중 )
-<br>
+**Team :** [`DEMON`](https://demon-kr.github.io/), [`ASC`](https://ssu-asc.github.io/), [`DeadSec`](https://deadsec.team/) 
+
+# **Education**
+
+---
+
+- **~ 2022.12 : 정보보호영재교육원 고등 전문**
+- 2**023.07 - 2024.03 :** [KITRI **Best Of the Best](https://www.kitribob.kr/) 12th** **Vulnerability Analysis**
+- **2024.03 ~ : Soongsil Univ**. Department of Information Security [**@ssu.sec**](https://sec.ssu.ac.kr/)
+- **2024.03 ~ :** Undergraduate Researcher **[@ssu.csec](https://csec.ssu.ac.kr/)**
+
+# **Speaker**
+
+---
+
+- 2**023.08.26 :** [**HackingCamp 27**](http://hackingcamp.org/), PoC Security ( [CTF Player to Hacker : 선택과 집중](https://github.com/hackintoanetwork/Scan-WP) )
+- **2024.08.30 :** [**CodeGate 2024**](https://codegate.org/), ( Exploiting [**SPACEX](https://www.spacex.com/) / [STARLINK](https://www.starlink.com/)** )
 
 # Hall of Fame
 
-- Kakao Bug Bounty Hall of Fame 2023
-- NAVER Bug Bounty Hall of Fame 2023
-- Patchstack 2023 April Leader Board 1st
-- Wordfence Vulnerability Researcher Hall of Fame 2023
-- SpaceX / Starlink bugcrowd Hall of Fame 2023 - BoBdoduk
-<br>
+---
 
-# ****Bug Bounty****
+- [**Kakao** Bug Bounty Hall of Fame 2023](https://bugbounty.kakao.com/notice/halloffame)
+- [**NAVER** Bug Bounty Hall of Fame 2023](https://bugbounty.naver.com/ko/halloffame_2023)
+- [**Patchstack** 2023 April Leader Board 1st](https://patchstack.com/database/leaderboard/april-2023)
+- [**SPACEX / STARLINK** Hall of Fame 6th 2024](https://bugcrowd.com/spacex/hall-of-fame)
+- [**Wordfence** Vulnerability Researcher Hall of Fame 2023](https://www.wordfence.com/threat-intel/vulnerabilities/researchers/all-time?page=2)
 
-## **SpaceX / Starlink**
+# **Bug Bounty**
 
-- CVE-2023-49965, CVE-2023-52235 ( $8000 USD )
+---
 
-## **ARC Browser**
-- CVE-2024-25733
+## SPACEX / STARLINK
+
+- [CVE-2023-49965](https://hackintoanetwork.com/blog/2023-starlink-router-gen2-xss-eng/), CVE-2023-52235
 
 ## **NAVER**
 
-- NBB-2777, NBB-2874, NBB-2783 ( SQL Injection, XSS ) ( $1200 USD )
+- NBB-2777, NBB-2874, NBB-2783 ( SQL Injection, XSS )
 
-## **kakao**
+## **Kakao**
 
-- KV-2023-32, KV-2023-33, KV-2023-69, KV-2023-66, KV-2023-88
+- KV-2023-32, KV-2023-33, KV-2023-69, KV-2023-66, KV-2023-88, KV-2024-114 ( RCE )
 
-## **WordPress Plugins**
+## ARC Browser
 
-( SQL Injection, XSS, CSRF ) ( $ 1000 USD )
+- CVE-2024-25733
+
+## WordPress Plugins
+
+( RCE, SQL Injection, XSS, CSRF )
 
 - CVE-2023-29385, CVE-2023-29441, CVE-2023-30471, CVE-2023-30472
 - CVE-2023-30487, CVE-2023-30493, CVE-2023-30499, CVE-2023-30779
@@ -67,4 +79,4 @@
 - CVE-2023-45770, CVE-2023-45771, CVE-2023-46071, CVE-2023-46074
 - CVE-2023-46075, CVE-2023-46076, CVE-2023-46088, CVE-2023-46089
 - CVE-2023-46090, CVE-2023-46091, CVE-2023-46092, CVE-2023-46093
-- CVE-2023-46191, CVE-2023-46192, CVE-2023-46193, `Pending CVE`
+- CVE-2023-46191, CVE-2023-46192, CVE-2023-46193
