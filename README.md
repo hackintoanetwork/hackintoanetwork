@@ -2,16 +2,13 @@
 
 * * *
 
-# Profile
+# **Profile**
 
 
-**Name :** 이세형 ( Sehyoung Lee, 2004.04 )
-
-**Email :** [hackintoanetwork@soongsil.ac.kr](mailto:hackintoanetwork@soongsil.ac.kr)
-
-**Blog :** [hackintoanetwork.com](https://hackintoanetwork.com)
-
-**Team :** [`DEMON`](https://demon-kr.github.io/), [`ASC`](https://ssu-asc.github.io/), [`DeadSec`](https://deadsec.team/) 
+- **Name :** 이세형 ( Sehyoung Lee, 2004.04 )
+- **Email :** [hackintoanetwork@soongsil.ac.kr](mailto:hackintoanetwork@soongsil.ac.kr)
+- **Blog :** [hackintoanetwork.com](https://hackintoanetwork.com)
+- **Team :** [`DEMON`](https://demon-kr.github.io/), [`ASC`](https://ssu-asc.github.io/), [`DeadSec`](https://deadsec.team/) 
 
 # **Education**
 
