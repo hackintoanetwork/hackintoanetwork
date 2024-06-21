@@ -22,7 +22,7 @@
 
 
 - **2023.08.26 :** [**HackingCamp 27**](http://hackingcamp.org/), PoC Security ( [CTF Player to Hacker : 선택과 집중](https://github.com/hackintoanetwork/Scan-WP) )
-- **2024.08.30 :** [**CodeGate 2024**](https://codegate.org/), ( Exploiting <b>[SPACEX](https://www.spacex.com/) / [STARLINK](https://www.starlink.com/)</b> )
+- **2024.08.30 :** [**CodeGate 2024**](https://codegate.org/), ( Attacking <b>[SPACEX](https://www.spacex.com/) / [STARLINK](https://www.starlink.com/)</b> from the Internet )
 
 # Hall of Fame
 
