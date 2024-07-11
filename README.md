@@ -23,13 +23,14 @@
 - [**Patchstack** 2023 April Leader Board 1st](https://patchstack.com/database/leaderboard/april-2023)
 - [**SPACEX / STARLINK** Hall of Fame 6th 2024](https://bugcrowd.com/spacex/hall-of-fame)
 - [**Wordfence** Vulnerability Researcher Hall of Fame 2023](https://www.wordfence.com/threat-intel/vulnerabilities/researchers/all-time?page=2)
+- [**Office of Wildland Fire** Hall of Fame 2024](https://bugcrowd.com/owf-vdp/hall-of-fame)
 
 # **Bug Bounty**
 
 
 ## SPACEX / STARLINK
 
-- [CVE-2023-49965](https://hackintoanetwork.com/blog/2023-starlink-router-gen2-xss-eng/), CVE-2023-52235
+- [CVE-2023-49965](https://hackintoanetwork.com/blog/2023-starlink-router-gen2-xss-eng/), [CVE-2023-52235](https://bugcrowd.com/disclosures/f529009b-90eb-4bf9-957d-6fe7ea890fa2/starlink-dishy-is-vulnerable-to-csrf-via-dns-rebinding)
 
 ## **NAVER**
 
@@ -37,7 +38,7 @@
 
 ## **Kakao**
 
-- KV-2023-32, KV-2023-33, KV-2023-69, KV-2023-66, KV-2023-88, KV-2024-114 ( RCE )
+- KV-2023-32, KV-2023-33, KV-2023-69, KV-2023-66, KV-2023-88, KV-2024-114 ( Remote Code Execution )
 
 ## ARC Browser
 
@@ -45,7 +46,7 @@
 
 ## WordPress Plugins
 
-( RCE, SQL Injection, XSS, CSRF )
+( SQL Injection, XSS, CSRF )
 
 - CVE-2023-29385, CVE-2023-29441, CVE-2023-30471, CVE-2023-30472
 - CVE-2023-30487, CVE-2023-30493, CVE-2023-30499, CVE-2023-30779
@@ -63,3 +64,6 @@
 - CVE-2023-46075, CVE-2023-46076, CVE-2023-46088, CVE-2023-46089
 - CVE-2023-46090, CVE-2023-46091, CVE-2023-46092, CVE-2023-46093
 - CVE-2023-46191, CVE-2023-46192, CVE-2023-46193
+
+## The Department of the Interior Office of Wild
+- [73819c05-2601-470d-93ae-dbe4f086aa43](https://bugcrowd.com/owf-vdp/crowdstream) ( Remote Code Execution )
