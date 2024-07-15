@@ -4,7 +4,7 @@
 
 # **Profile**
 
-- **Email :** [hackintoanetwork@soongsil.ac.kr](mailto:hackintoanetwork@duck.com)
+- **Email :** [hackintoanetwork@duck.com](mailto:hackintoanetwork@duck.com)
 - **Blog :** [hackintoanetwork.com](https://hackintoanetwork.com)
 - **Team :** [`DEMON`](https://demon-kr.github.io/), [`ASC`](https://ssu-asc.github.io/), [`DeadSec`](https://deadsec.team/), [`TOOR`](https:///) 
 
