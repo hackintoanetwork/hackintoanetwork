@@ -6,7 +6,6 @@
 
 - **Email :** [hackintoanetwork@proton.me](mailto:hackintoanetwork@proton.me)
 - **Blog :** [hackintoanetwork.com](https://hackintoanetwork.com)
-- **Team :** [`DEMON`](https://demon-kr.github.io/), [`ASC`](https://ssu-asc.github.io/), [`DeadSec`](https://deadsec.team/), [`TOOR`](https:///) 
 
 # **Speaker**
 
@@ -32,19 +31,17 @@
 
 ## **NAVER**
 
-- NBB-2777, NBB-2874, NBB-2783 ( SQL Injection, XSS )
+- NBB-2777, NBB-2874, NBB-2783
 
 ## **Kakao**
 
-- KV-2023-32, KV-2023-33, KV-2023-69, KV-2023-66, KV-2023-88, KV-2024-114 ( Remote Code Execution )
+- KV-2023-32, KV-2023-33, KV-2023-69, KV-2023-66, KV-2023-88, KV-2024-114
 
 ## ARC Browser
 
 - CVE-2024-25733
 
 ## WordPress Plugins
-
-( SQL Injection, XSS, CSRF )
 
 - CVE-2023-29385, CVE-2023-29441, CVE-2023-30471, CVE-2023-30472
 - CVE-2023-30487, CVE-2023-30493, CVE-2023-30499, CVE-2023-30779
@@ -64,4 +61,4 @@
 - CVE-2023-46191, CVE-2023-46192, CVE-2023-46193
 
 ## The Department of the Interior Office of Wild
-- [73819c05-2601-470d-93ae-dbe4f086aa43](https://bugcrowd.com/owf-vdp/crowdstream) ( Remote Code Execution )
+- [73819c05-2601-470d-93ae-dbe4f086aa43](https://bugcrowd.com/owf-vdp/crowdstream)
