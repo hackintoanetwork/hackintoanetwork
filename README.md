@@ -4,9 +4,6 @@
   <a href="https://x.com/sehyoung___">
     <img src="https://img.shields.io/badge/Twitter-000000.svg?&style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="https://hackintoanetwork.co.kr">
-    <img src="https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=tistory&logoColor=white"/>
-  </a>
   <a href="https://hackintoanetwork.com">
     <img src="https://img.shields.io/badge/GitHub.io-181717.svg?&style=for-the-badge&logo=gitHub&logoColor=white"/>
   </a>
