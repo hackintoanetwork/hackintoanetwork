@@ -14,11 +14,11 @@
     <img src="https://img.shields.io/badge/proton%20mail-6D4AFF.svg?&style=for-the-badge&logo=proton&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
-  <a href="https://bugcrowd.com/hackintoanetwork">
-    <img src="https://img.shields.io/badge/BugCrowd-ff6900.svg?style=for-the-badge&logo=bugcrowd&logoColor=white"/>
-  </a>
   <a href="https://instagram.com/hackintoanetwork">
     <img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://bugcrowd.com/hackintoanetwork">
+    <img src="https://img.shields.io/badge/BugCrowd-ff6900.svg?style=for-the-badge&logo=bugcrowd&logoColor=white"/>
   </a>
 </div>
 
