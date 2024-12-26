@@ -22,4 +22,4 @@
 ---
 
 - **Email:** [hackintoanetwork@proton.me](mailto:hackintoanetwork@proton.me)
-- **Blog:** [hackintoanetwork.com](https://hackintoanetwork.com/redirect)
+- **Blog:** [hackintoanetwork.com](https://hackintoanetwork.com/hello)
