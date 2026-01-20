@@ -1,7 +1,7 @@
 <div align="center">
   <h3>hackintoanetwork</h3>
   <p>Security Researcher, Hacker</p>
-</div><br />
+</div>
 
 <div align="center">
   <a href="https://hackintoanetwork.com">
